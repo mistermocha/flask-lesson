@@ -1,0 +1,12 @@
+h1, h2 {
+  align-self:center;
+  background-color: #99ff99;
+  border: 1px solid #33cc33;
+  margin: 6px;
+  padding: 8px;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+  
+h1 { font-size: 20pt };  
+h2 { font-size: 18pt };  
